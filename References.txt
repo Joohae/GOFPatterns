@@ -1,0 +1,6 @@
+References:
+	http://en.wikipedia.org/wiki/Design_Patterns
+	Printable Design Patterns Quick Reference Cards	: http://blog.markturansky.com/archives/32
+	
+참고:
+	http://ko.wikipedia.org/wiki/%EB%94%94%EC%9E%90%EC%9D%B8_%ED%8C%A8%ED%84%B4_%28%EC%B1%85%29
